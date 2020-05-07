@@ -1,5 +1,5 @@
 ## Image Search
-Simple image search using React
+Simple image search using React and Unsplash API
 
 
 ## Technologies
