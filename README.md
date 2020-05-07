@@ -9,4 +9,4 @@ Unsplash :: https://unsplash.com/developers <br />
 Semantic UI 2.4.1 :: https://semantic-ui.com/
 
 ## Mock up
-![](docs/image-search.png
+![](docs/image-search.png)
